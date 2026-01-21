@@ -8,3 +8,12 @@ nama_siswa = Console.ReadLine();
 
 Console.Write("Masukkan Nilai:  ");
 nilai_siswa = int.Parse(Console.ReadLine());
+
+if (nilai_siswa >= 75)
+{
+    Console.WriteLine("Status: Lulus");
+}
+else
+{
+    Console.WriteLine("Status: Tidak Lulus");
+}
