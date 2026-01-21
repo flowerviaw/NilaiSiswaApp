@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string nama_siswa;
+int nilai_siswa;
+
+Console.WriteLine("Aplikasi Nilai Siswa");
